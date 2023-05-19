@@ -1,0 +1,36 @@
+<dependencies>
+  <packages>
+    <package>com.facebook.android:facebook-applinks:[11.0, 12)</package>
+    <package>com.facebook.android:facebook-core:[11.0, 12)</package>
+    <package>com.facebook.android:facebook-gamingservices:[11.0, 12)</package>
+    <package>com.facebook.android:facebook-login:[11.0, 12)</package>
+    <package>com.facebook.android:facebook-share:[11.0, 12)</package>
+    <package>com.google.android.gms:play-services-base:17.6.0</package>
+    <package>com.google.firebase:firebase-analytics:20.0.0</package>
+    <package>com.google.firebase:firebase-analytics-unity:8.8.0</package>
+    <package>com.google.firebase:firebase-app-unity:8.8.0</package>
+    <package>com.google.firebase:firebase-auth:21.0.1</package>
+    <package>com.google.firebase:firebase-auth-unity:8.8.0</package>
+    <package>com.google.firebase:firebase-common:20.0.0</package>
+    <package>com.google.firebase:firebase-iid:21.1.0</package>
+    <package>com.google.firebase:firebase-messaging:23.0.0</package>
+    <package>com.google.firebase:firebase-messaging-unity:8.8.0</package>
+    <package>com.parse.bolts:bolts-android:1.4.0</package>
+  </packages>
+  <files />
+  <settings>
+    <setting name="androidAbis" value="arm64-v8a,armeabi-v7a" />
+    <setting name="bundleId" value="com.tohr.tohr" />
+    <setting name="explodeAars" value="True" />
+    <setting name="gradleBuildEnabled" value="True" />
+    <setting name="gradlePropertiesTemplateEnabled" value="False" />
+    <setting name="gradleTemplateEnabled" value="False" />
+    <setting name="installAndroidPackages" value="True" />
+    <setting name="localMavenRepoDir" value="Assets/GeneratedLocalRepo" />
+    <setting name="packageDir" value="Assets/Plugins/Android" />
+    <setting name="patchAndroidManifest" value="True" />
+    <setting name="patchMainTemplateGradle" value="True" />
+    <setting name="projectExportEnabled" value="True" />
+    <setting name="useJetifier" value="True" />
+  </settings>
+</dependencies>

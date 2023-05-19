@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "899297639171",
+    "project_id": "tohr-66a35",
+    "storage_bucket": "tohr-66a35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899297639171:android:bc3ce15ba484c42900c736",
+        "android_client_info": {
+          "package_name": "com.tohr.tohr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899297639171-k7l4b2qsmare7gl3e6i3fns080tgqi2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARxXIf1RDaAh1QoxQkfaK2xGRC5YFps8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899297639171-k7l4b2qsmare7gl3e6i3fns080tgqi2g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "899297639171-2itjdsd402r1tca8apcdbhl2atfnoh11.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tohr.tohr"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
